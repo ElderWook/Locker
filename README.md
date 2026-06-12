@@ -1,2 +1,2 @@
 # Locker
-setting up git
+new code shit posting depot
